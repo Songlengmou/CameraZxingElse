@@ -1,0 +1,4 @@
+include ':camerazxingelsetwo'
+include ':lib-zxing'
+include ':app'
+rootProject.name = "CameraZxingElse"
